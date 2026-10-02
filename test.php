@@ -1,0 +1,5 @@
+<?php
+
+echo "APACHE BERHASIL MEMBACA PROJECT PERPUS";
+
+?>
